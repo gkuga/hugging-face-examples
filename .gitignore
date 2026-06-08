@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Hugging Face model cache (large, do not commit)
+.cache/
+hf_cache/
+
+# OS
+.DS_Store
